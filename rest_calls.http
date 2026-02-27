@@ -1,0 +1,1 @@
+curl -X GET "https://digitalchew.com/wp-json/wp/v2/users" -H "Content-Type: application/json" -H "Accept: application/json"
